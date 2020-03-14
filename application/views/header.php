@@ -19,7 +19,13 @@
 </head>
 
 <body>
-
+<div class="container mt-4 ml-7 mr-7">
+            <h2 class="text-center mb-4">CRUD WITH CODEIGNITER</h2>
+            
+            <div class="row text-center">
+              <div class="col-sm"><strong>Nama:</strong> DILAN ALLYA BARQI </div>
+              <div class="col-sm"><strong>Nim:</strong> 17.01.53.0070</div>
+            </div>
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
